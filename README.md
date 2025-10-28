@@ -2,7 +2,7 @@
 
 Learn, explore, and play with network protocols and visual simulations — beautifully visualized, instantly interactive.
 
-# 🌍_Overview_
+# 🌍 Overview
 
 Visualizer is an educational, demo-driven web app that turns complex networking concepts and playful animations into interactive experiences.
 
@@ -20,7 +20,7 @@ The best way to understand protocols and algorithms is to see them in motion.
 
 Whether you’re a student, instructor, or hobbyist, Visualizer lets you watch, interact, and experiment with real-time data flows and animations that bring learning to life.
 
-# ✨__Highlights & Features__
+# ✨ Highlights & Features
 
 ✅ Interactive Protocol Demos
 Explore TCP, UDP, DNS, HTTP/HTTPS, SMTP, FTP, SSH, ICMP, POP3, IMAP, IPv4/IPv6, and more — each paired with real-time visualizations.
@@ -56,7 +56,7 @@ Clean folder structure, ESLint setup, and readable codebase — perfect for cont
 
 🎨 Makers who enjoy animations, simulations, and creative coding.
 
-# 🧭__Repository Structure__
+# 🧭 Repository Structure
 
 📂 visualizer/
  ┣ 📁 app/             → Main Next.js routes and protocol demos (tcp/, udp/, http/, ssh/, etc.)
@@ -69,7 +69,7 @@ Clean folder structure, ESLint setup, and readable codebase — perfect for cont
  ┣ 📜 requirements.txt → (Optional) Python helper scripts for data or analysis
  ┗ 📜 README.md
 
-# 🚀_Quick Start_
+# 🚀 Quick Start
 1️⃣ Install dependencies
 npm install
 
@@ -163,11 +163,11 @@ So go on — watch the web come alive. 🌐✨
 # ⭐ Star this repo if you love interactive learning tools!
 #     Let’s make networking fun again
 
-# _Customization_
+# Customization
 
 - Edit `app/globals.css` or the `<style jsx>` blocks in each page for styles.
 - To add new protocols, create a new folder in `app/` and follow the structure of existing protocol pages.
 
-# _License_
+# License
 
 This project is for educational use.
