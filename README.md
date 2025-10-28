@@ -58,15 +58,17 @@ Clean folder structure, ESLint setup, and readable codebase — perfect for cont
 
 # 🧭 Repository Structure
 
-# 📂 visualizer/
-┣ 📁 app/ → Main Next.js routes and protocol demos (tcp/, udp/, http/, ssh/, etc.)
-┣ 📜 globals.css → Global styling
-┣ 📜 tailwind.config.js
-┣ 📜 postcss.config.js
-┣ 📜 next.config.mjs
-┣ 📜 jsconfig.json
-┣ 📜 package.json
-┗ 📜 README.md #
+```
+📂 visualizer/  
+┣ 📁 app/ → Main Next.js routes and protocol demos (tcp/, udp/, http/, ssh/, etc.)  
+┣ 📜 globals.css → Global styling  
+┣ 📜 tailwind.config.js  
+┣ 📜 postcss.config.js  
+┣ 📜 next.config.mjs  
+┣ 📜 jsconfig.json  
+┣ 📜 package.json  
+┗ 📜 README.md  
+```
 
 # 🚀 Quick Start
 1️⃣ Install dependencies
